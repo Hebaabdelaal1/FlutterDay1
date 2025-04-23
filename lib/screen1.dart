@@ -120,13 +120,13 @@ class ThisIsScreen extends StatelessWidget {
 
 
          Container(
-  padding: EdgeInsets.all(16),
+  padding: EdgeInsets.all(1),
   child: Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
     children: [
 
       Container(
-        padding: EdgeInsets.all(12),
+        padding: EdgeInsets.all(5),
         decoration: BoxDecoration(
           color: Colors.grey[300],
           borderRadius: BorderRadius.circular(25), 
@@ -184,8 +184,8 @@ class ThisIsScreen extends StatelessWidget {
       
 
       Container(
-        padding: EdgeInsets.all(12),
-             margin: EdgeInsets.all(5),
+        padding: EdgeInsets.all(5),
+             margin: EdgeInsets.all(2),
         decoration: BoxDecoration(
           color: Colors.grey[300],
           borderRadius: BorderRadius.circular(25), 
@@ -243,7 +243,7 @@ class ThisIsScreen extends StatelessWidget {
       
 
     Container(
-        padding: EdgeInsets.all(12),
+        padding: EdgeInsets.all(5),
         margin: EdgeInsets.all(5),
         decoration: BoxDecoration(
           color: Colors.grey[300],
