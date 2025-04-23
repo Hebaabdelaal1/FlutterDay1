@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'Screen3.dart';
 import 'Screen2.dart';
-import 'screen1.dart'; // تأكد من اسم الملف والمجلد
+import 'Screen3.dart';
+
 
 
 void main() {
@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.indigo,
       ),
       // home:  ThisIsScreen(), 
-      home:  ThisIsScreen2(), 
-      // home:  ThisIsScreen3(), 
+      // home:  ThisIsScreen2(), 
+      home:  ThisIsScreen3(), 
     );
   }
 }

@@ -230,14 +230,14 @@ Container(
       width: 60,
       height: 60, 
       child: Stack(
-        clipBehavior: Clip.none,
+        // clipBehavior: Clip.none,
         children: [
           Positioned(
             left: 0,
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/img2.png"),
             ),
           ),
           Positioned(
@@ -245,7 +245,7 @@ Container(
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/img1.png"),
             ),
           ),
         ],
@@ -312,9 +312,9 @@ children: [
             radius: 20,
             // backgroundColor: const Color.fromARGB(255, 225, 161, 10),
             child: Image.asset(
-              'assets/imgs/Schedule.png',
-              width: 30,
-              height: 30,
+              'assets/imgs/img2.png',
+              width: 60,
+              height: 60,
             ),
           ),
         ],
@@ -379,9 +379,9 @@ children: [
             
             radius: 20,
             child: Image.asset(
-              'assets/imgs/Schedule.png',
-              width: 30,
-              height: 30,
+              'assets/imgs/img2.png',
+              width: 60,
+              height: 60,
             ),
           ),
         ],
@@ -455,7 +455,7 @@ children: [
               bottom: 0,
               child: CircleAvatar(
                 radius: 20,
-                backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+                backgroundImage: AssetImage("assets/imgs/55cd965113e8951ab4403356aadc31f2fcb2ff80.png"),
               ),
             ),
             Positioned(
@@ -463,7 +463,7 @@ children: [
               bottom: 0,
               child: CircleAvatar(
                 radius: 20,
-                backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+                backgroundImage: AssetImage("assets/imgs/img1.png"),
               ),
             ),
             Positioned(
@@ -471,7 +471,7 @@ children: [
               bottom: 0,
               child: CircleAvatar(
                 radius: 20,
-                backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+                backgroundImage: AssetImage("assets/imgs/img2.png"),
               ),
             ),
           ],
@@ -542,14 +542,14 @@ children: [
       width: 60,
       height: 60, 
       child: Stack(
-        clipBehavior: Clip.none,
+        // clipBehavior: Clip.none,
         children: [
           Positioned(
             left: 0,
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/img1.png"),
             ),
           ),
           Positioned(
@@ -557,7 +557,7 @@ children: [
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/55cd965113e8951ab4403356aadc31f2fcb2ff80.png"),
             ),
           ),
         ],

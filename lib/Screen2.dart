@@ -37,7 +37,7 @@ class ThisIsScreen2 extends StatelessWidget {
 
             // Second container
             Container(
-              padding: EdgeInsets.all(4),
+              padding: EdgeInsets.fromLTRB(5, 15, 5, 25),
               margin: EdgeInsets.all(5),
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 102, 231, 4),
@@ -64,7 +64,7 @@ class ThisIsScreen2 extends StatelessWidget {
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/img2.png"),
             ),
           ),
           Positioned(
@@ -72,7 +72,7 @@ class ThisIsScreen2 extends StatelessWidget {
             bottom: 0,
             child: CircleAvatar(
               radius: 20,
-              backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+              backgroundImage: AssetImage("assets/imgs/img1.png"),
             ),
           ),
         ],
@@ -93,8 +93,8 @@ class ThisIsScreen2 extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                      Image.asset(
-        'assets/imgs/Schedule.png',
-        width: 100,
+        'assets/imgs/image.png',
+        width: 150,
         height: 100,
       ),
                     ],
@@ -106,7 +106,7 @@ class ThisIsScreen2 extends StatelessWidget {
           
           
            Container(
-              padding: EdgeInsets.all(5),
+              padding: EdgeInsets.fromLTRB(5, 15, 5, 25),
               margin: EdgeInsets.all(5),
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 4, 2, 70),
@@ -130,7 +130,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/ss.jpg"),
         ),
       ),
       Positioned(
@@ -138,7 +138,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/55cd965113e8951ab4403356aadc31f2fcb2ff80.png"),
         ),
       ),
       Positioned(
@@ -146,7 +146,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img2.png"),
         ),
       ),
        Positioned(
@@ -154,7 +154,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img1.png"),
         ),
       ),
     ],
@@ -185,7 +185,7 @@ class ThisIsScreen2 extends StatelessWidget {
         top: 10,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img2.png"),
         ),
       ),
       Positioned(
@@ -193,7 +193,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img1.png"),
         ),
       ),
       Positioned(
@@ -201,7 +201,7 @@ class ThisIsScreen2 extends StatelessWidget {
         top: 20,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/2.png"),
         ),
       ),
       Positioned(
@@ -209,7 +209,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: -5,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/55cd965113e8951ab4403356aadc31f2fcb2ff80.png"),
         ),
       ),
       Positioned(
@@ -217,7 +217,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 10,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img2.png"),
         ),
       ),
     ],
@@ -238,7 +238,7 @@ class ThisIsScreen2 extends StatelessWidget {
           
           
             Container(
-              padding: EdgeInsets.all(5),
+              padding: EdgeInsets.fromLTRB(5, 15, 5, 25),
               margin: EdgeInsets.all(5),
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 107, 79, 219),
@@ -262,7 +262,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/55cd965113e8951ab4403356aadc31f2fcb2ff80.png"),
         ),
       ),
       Positioned(
@@ -270,7 +270,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img2.png"),
         ),
       ),
       Positioned(
@@ -278,7 +278,7 @@ class ThisIsScreen2 extends StatelessWidget {
         bottom: 0,
         child: CircleAvatar(
           radius: 20,
-          backgroundImage: AssetImage("assets/imgs/Schedule.png"),
+          backgroundImage: AssetImage("assets/imgs/img1.png"),
         ),
       ),
     ],
@@ -297,8 +297,8 @@ class ThisIsScreen2 extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                      Image.asset(
-         'assets/imgs/Schedule.png',
-        width: 100,
+         'assets/imgs/Refer a friend.png',
+        width: 150,
         height: 100,
       ),
                     ],
