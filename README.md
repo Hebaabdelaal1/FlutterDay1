@@ -19,3 +19,9 @@ Day1
 ![ Screen1](assets/day1Screens/Screenshot%20(645).png)
 ![ Screen2](assets/day1Screens/Screenshot%20(646).png)
 ![ Screen3](assets/day1Screens/Screenshot%20(647).png)
+
+Day2
+![screen1](assets/Day2Imgs/Screenshot%20(651).png)
+![screen2](assets/Day2Imgs/Screenshot%20(650).png)
+![screen2](assets/Day2Imgs/Screenshot%20(649).png)
+![screen3](assets/Day2Imgs/Screenshot%20(652).png)

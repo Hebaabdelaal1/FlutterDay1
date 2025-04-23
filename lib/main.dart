@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/Day2/Screen2.dart';
+import 'package:flutter_application_1/Day2/Screen3.dart';
+import 'Day2/Screen1.dart';
 import 'screen1.dart';
 import 'Screen2.dart';
 import 'Screen3.dart';
@@ -22,7 +25,11 @@ class MyApp extends StatelessWidget {
       ),
       // home:  ThisIsScreen(), 
       // home:  ThisIsScreen2(), 
-      home:  ThisIsScreen3(), 
+      // home:  ThisIsScreen3(), 
+      // home:  MyWidget(), 
+      // home:  Screen2(), 
+      home:  Screen3(), 
+
     );
   }
 }
